@@ -7,7 +7,7 @@ Life is a matter of choice, whether you live or die depends on yourself
 
 ## Features
 
-- Python Developer
+- Currently Solo Developer
 
 ## Plugins
 
