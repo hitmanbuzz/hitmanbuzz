@@ -3,6 +3,7 @@
 
 
 Life is a matter of choice, whether you live or die depends on yourself
+Life is like a jungle, you need to survive whatever it meant
 
 
 ## Features
@@ -28,5 +29,5 @@ NEVER BE BIND BY OTHERS, BE INDEPENDENT
 
 
 ```sh
-NEVER STOP CODING UNTIL YOUR LAST BREATH
+LOVE IS A TWISTED CURSE THAT AVOIDING IT WILL AFFECT MORE
 ```
