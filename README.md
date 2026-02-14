@@ -1,7 +1,7 @@
 # 💫 About Me:
 Name: **Moirangthem Henthoiba**
 <br>
-College: **BCA 2nd Semester**
+Course: **BCA 2nd Semester**
 
 I am a 19 years old boy who love tech and software development.<br>I just want to learn more about new tech stuff that comes out.
 <br> 
