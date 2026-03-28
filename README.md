@@ -1,11 +1,19 @@
 # 💫 About Me:
 Name: **Moirangthem Henthoiba**
 <br>
-Course: **BCA 2nd Semester**
+Age: **19**
+<br>
+Country: **India**
+<br>
+State: **Manipur**
+<br>
 
-I am a 19 years old boy who love tech and software development.<br>I just want to learn more about new tech stuff that comes out.
-<br><br>
-I am currently learning Graphics Programming.
+I am still in college.
+<br>
+I am currently learning Graphics Programming (OpenGL as of now).
+
+I use **Linux** as my OS. (Fu*k Microslop) <br>
+`I use Arch btw`
 
 
 ## 🌐 Socials:
