@@ -10,7 +10,7 @@ State: **Manipur**
 
 I am still in college.
 <br>
-I am currently learning Graphics Programming (OpenGL as of now).
+I am currently learning Graphics Programming.
 
 I use **Linux** as my OS. (Fu*k Microslop) <br>
 `I use Arch btw`
