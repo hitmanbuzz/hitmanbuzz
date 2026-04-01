@@ -11,6 +11,9 @@ State: **Manipur**
 I am still in college.
 <br>
 I am currently learning Graphics Programming.
+<br>
+
+Programming Language: `Rust`, `Go`, `C`
 
 I use **Linux** as my OS. (Fu*k Microslop) <br>
 `I use Arch btw`
