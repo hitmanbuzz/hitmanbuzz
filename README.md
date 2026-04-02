@@ -7,6 +7,7 @@ Country: **India**
 <br>
 State: **Manipur**
 <br>
+College/Course: **NIELIT** (BCA - 2nd Semester)
 
 I am still in college.
 <br>
