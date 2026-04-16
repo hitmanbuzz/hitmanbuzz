@@ -11,8 +11,6 @@ College/Course: **NIELIT** (BCA - 2nd Semester)
 
 I am still in college.
 <br>
-I am currently learning Graphics Programming.
-<br>
 
 Programming Language: `Rust`, `Go`, `C`
 
