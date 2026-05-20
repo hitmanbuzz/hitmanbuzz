@@ -25,4 +25,4 @@ I use **Linux** as my OS. (Fu*k Microslop) <br>
 <br>
 **Email**: hitmanbuzz@proton.me
 <br>
-**My Website**: https://hitmanbuzz.github.io/my-website/
+**My Website**: https://hitmanbuzz.github.io/
