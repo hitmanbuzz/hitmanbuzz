@@ -7,15 +7,12 @@ Country: **India**
 <br>
 State: **Manipur**
 <br>
-College/Course: **NIELIT** (BCA - 2nd Semester)
-
-I am still in college.
+College/Course: **NIELIT** (BCA - 3rd Semester)
 <br>
 
-Programming Language: `Rust`, `Go`, `C`
+Programming Language: `Rust`, `Go`, `C`.
 
-I use **Linux** as my OS. (Fu*k Microslop) <br>
-`I use Arch btw`
+I use **Linux** `arch btw`.
 
 
 ## 🌐 Socials:
