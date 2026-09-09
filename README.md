@@ -14,6 +14,7 @@ Programming Language: `Rust`, `Go`, `C`.
 
 I use **Linux** `arch btw`.
 
+Big Projects: https://github.com/BuzzyCode
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/HitmanTheSnip/) 
@@ -23,3 +24,4 @@ I use **Linux** `arch btw`.
 **Email**: hitmanbuzz@proton.me
 <br>
 **My Website**: https://hitmanbuzz.github.io
+
