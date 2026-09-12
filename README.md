@@ -10,11 +10,9 @@ State: **Manipur**
 College/Course: **NIELIT** (BCA - 3rd Semester)
 <br>
 
-Programming Language: `Rust`, `Go`, `C`.
+Programming Language: `Rust`, `Go`, `C`
 
-I use **Linux** `arch btw`.
-
-Big Projects: https://github.com/BuzzyCode
+I use **Linux** `arch btw`
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/HitmanTheSnip/) 
