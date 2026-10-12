@@ -21,5 +21,5 @@ I use **Linux** `arch btw`
 <br>
 **Email**: hitmanbuzz@proton.me
 <br>
-**My Website**: https://hitmanbuzz.github.io
+**My Website**: https://henthoiba.pages.dev
 
