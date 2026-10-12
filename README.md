@@ -10,7 +10,9 @@ State: **Manipur**
 College/Course: **NIELIT** (BCA - 3rd Semester)
 <br>
 
-Programming Language: `Rust`, `Go`, `C`
+Programming Language: **`Rust`** **`Go`**
+<br>
+Currently working on projects related to **System Programming**
 
 I use **Linux** `arch btw`
 
